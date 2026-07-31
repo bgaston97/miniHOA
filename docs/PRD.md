@@ -1,16 +1,35 @@
-miniHOA
-product requirements document
-version point one. 
-Vision. 
+# miniHOA — Product Requirements Document
+Version: 0.1
+Date: 2026-07-31
+Author: (your name)
+Status: Draft
 
-Mini HOA is a simple, affordable management platform for self-managed HOAs with roughly fifty to two hundred and fifty homes, built for volunteer boards and resident self-service. 
+## Executive summary
+miniHOA is a simple, affordable management platform for self-managed homeowners associations (HOAs) of ~50–250 homes. It helps volunteer boards reduce administrative overhead and improve communication with residents by providing board-first tooling and easy resident self-service, optimized for mobile.
 
-Mission
+## Vision
+Provide an easy-to-use, low-cost HOA management solution that lets volunteer board members run their community efficiently without deep technical knowledge.
 
-Help volunteer boards spend less time on admin while improving communication with homeowners. Guiding principles, simplicity first, board first, self-service for residents, mobile friendly and multi-tenant from day one. 
+## Mission
+Help volunteer boards spend less time on administration while improving transparency and communication with homeowners.
 
-Target customer: self-managed HOAs, volunteer boards, limited budgets, low transaction volume. 
+## Target customer
+Self-managed HOAs with volunteer boards, limited budgets, and low transaction volume.
 
-Primary users: president, treasurer, secretary, ARC committee, and residents. Core v1 modules: public site plus login, resident portal with dues, ARC, documents, and news, board portal with financials lite, meetings, announcements, and document library. 
+## Primary users
+- Board President (overview & meeting prep)
+- Treasurer (financials, dues)
+- Secretary (documents, meeting minutes, publishing)
+- ARC committee (requests and approvals)
+- Residents (pay dues, view documents, submit requests)
 
-Monthly board cycle baked in: prep, meet, publish, follow up as the backbone. And the success metric, a new board member can log in and understand the HOA's current status within thirty minutes.
+## Core v1 (MVP) modules (summary)
+- Public site + login
+- Resident portal: dues, documents, ARC requests, news
+- Board portal: financial overview, meeting workflow, document publishing
+- Monthly board cycle baked into workflows: Prep → Meet → Publish → Follow-up
+
+## Success metric
+A new board member can log in and understand the HOA's current status within 30 minutes.
+
+(continue with prioritized feature list, acceptance criteria, timeline, etc.)
